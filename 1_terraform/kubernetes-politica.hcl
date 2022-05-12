@@ -1,0 +1,4 @@
+path "secretos/*"
+{
+  capabilities = ["read"]
+}
